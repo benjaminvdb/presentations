@@ -1,4 +1,8 @@
-# Introduction
+# Developing a smarter Electronic Health Record
+
+---
+
+## Introduction
 
 * Insurers define the conditions that determine treatments rates for physiotherapy practices.
 * Quality of a patient's electronic health record is important.
@@ -6,18 +10,34 @@
 
 ---
 
+## Motivation
+
 1. Therapists spend 26% of their time doing administrative work.
 2. The systems do not provide feedback using this data in any meaningful way.
 3. This clearly induces more stress and results in less billable hours and an increase of the healthcare costs.
 
 ---
 
-Administrative jobs in physiotherapy practices can be more
+## Objectives
 
-1. Efficient
-2. Meaningful
+- Efficient
+- Meaningful |
+- Lala lolo! |
 
 ---
+
++++
+@title[Piecemeal Lists]
+
+- Java
+- Groovy |
+- Kotlin |
+- Scala  |
+- The JVM rocks! |
+
++++
+
+Administrative jobs in physiotherapy practices can be more
 
 <!--The final product of this research project will be a fully functioning, commercially viable electronic health record for Dutch physiotherapy practices.-->
 
