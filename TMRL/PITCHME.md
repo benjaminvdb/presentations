@@ -1,20 +1,19 @@
-##### Developing a smarter Electronic Health Record
+### Developing a smarter Electronic Health Record
 
 ---
 
-###### Introduction
+#### Introduction
 
-* Insurers define the conditions that determine treatments rates for physiotherapy practices.
-* Quality of a patient's electronic health record is important.
-* Increasing pressure on therapists for providing data.
+* Insurers determine treatment rates 
+* Based on quality of electronic health record
+* Increasing pressure on therapists for providing data
 
 ---
 
 #### Motivation
 
-1. Therapists spend 26% of their time doing administrative work.
-2. The systems do not provide feedback using this data in any meaningful way.
-3. This clearly induces more stress and results in less billable hours and an increase of the healthcare costs.
+1. 26% of time spent on administrative work
+2. Current systems do not provide meaningful feedback |
 
 ---
 
@@ -22,30 +21,24 @@
 
 - Efficient
 - Meaningful |
-- Fully functioning, commercially viable product
+- Fully functioning, commercially viable product |
 
 ---
 
 #### Attribution
 
-This is a collaboration between
-- Codarts (vocational university in Rotterdam)
+- Codarts (vocational university)
 - 10 physiotherapy practices
-- NVFS (Dutch association for physiotherapy in sports)
+- NVFS
 - Suzan Verberne
 
 ---
 
 #### Starting out 
 
-The project goals can be cast as common NLP problems, e.g.:
-
-1. Efficient entering of data @fa[arrow-right] assign a form field to incoming unstructured data using classification.
-2. Provide meaningful feedback @fa[arrow-right] transform unstructured data into structured data using information extraction.
-
-A probable continuation of the project will add another goal:
-
-3. Normalisation of (medical) named entities
+1. Efficient data input @fa[arrow-right] classification
+2. Meaningful feedback @fa[arrow-right] information extraction |
+3. Normalisation of (medical) named entities |
 
 ---
 
@@ -61,17 +54,17 @@ A probable continuation of the project will add another goal:
 #### Annotation Task
 
 1. Determining spans associated with label 
-2. Assign correct label
-3. Correct coding following standards
+2. Assign correct label |
+3. Correct coding following standards |
 
 ---
 
 #### Category examples
 
-* Functioning (conditions in anatomical properties, activities, etc.)
+* Functioning
 * Diseases |
 * Incidents / trauma |
-* Symptoms \
+* Symptoms |
 * Intervention |
 
 ---
@@ -79,18 +72,18 @@ A probable continuation of the project will add another goal:
 #### Preparation and quality assessment
 
 * Annotation guidelines: under-defined task
-* Training session of several hours
-* Mid-term evaluation of progress
-* Guidance of students by professional physiotherapist
+* Training session of several hours |
+* Mid-term evaluation of progress |
+* Guidance of students by professional physiotherapist |
 
 ---
 
 #### Mid-term evaluation
 
 * Inter-agreement scores were low
-* Senior therapist was unsure about many examples
-* Technical background details provided
-* Join some categories, leave out normalized coding 
+* Senior therapist was unsure about many examples |
+* Technical background details provided | 
+* Join some categories, leave out normalized coding |
 
 ---
 
