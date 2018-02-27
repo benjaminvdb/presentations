@@ -1,5 +1,7 @@
 ### Developing a smarter Electronic Health Record
 
+<span style="color:gray">Benjamin van der Burgh (LIACS)</span>
+
 ---
 
 #### Introduction
@@ -130,8 +132,8 @@
 
 ##### Rule-based Information Extraction is Dead! Long Live Rule-based Information Extraction Systems!
 * Assumption that statistical methods are the best approach (Chiticariu et al. 2013)
-* They found that the industry didn't reflect research efforts
-* Different ways of measuring the costs and benefits of information extraction:
+* Industry didn't reflect research efforts
+* Different measures of costs and benefits
     * Academia: F1-score, no system or team requirement
     * Industry: interpretable by non-CS employees 
 
