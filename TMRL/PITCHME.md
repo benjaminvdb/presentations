@@ -129,11 +129,15 @@
 * First tests are looking promising! |
 
 
----?image=assets/uima_ruta.png&size=contain
+---
+
+![UIMA Ruta](assets/uima_ruta.png?size=contain)
 
 ---
 
----?image=assets/timeline.png&size=contain
+![Timeline](assets/timeline.png?size=contain)
+
+---
 
 
 #### Rule-based Information Extraction is Dead! Long Live Rule-based Information Extraction Systems!
@@ -145,7 +149,7 @@
 
 ---
 
-![Logo](assets/academia_industry.png?size=contain)
+![Academia vs. Industry](assets/academia_industry.png?size=contain)
 
 ---
 
@@ -160,17 +164,22 @@
 - System for continuous classification of product categories
 - Statistics- and rule based classifiers in parallel
 
+---
 
----?image=assets/walmart_chimera.png&size=contain
+![Walmart Chimera](assets/walmart_chimera.png?size=contain)
 
+---
 
 #### Villena-Román et al. 2011
 
 - Statistics and rule-based approaches in sequence
 - Rules used to fix mistakes in machine learning output
 
+---
 
----?image=assets/hybrid_system.png&size=contain
+![Hybrid System](assets/hybrid_system.png?size=contain)
+
+---
 
 #### Conclusions and Future Work
 * Generating training data can be very hard 
