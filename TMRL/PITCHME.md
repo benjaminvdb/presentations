@@ -130,7 +130,7 @@
 
 ---
 
----?image=assets/academia_industry.png
+---?image=assets/academia_industry.png&size=contain
 
 ---
 
