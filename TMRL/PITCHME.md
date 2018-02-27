@@ -36,9 +36,9 @@
 
 #### Starting out 
 
-1. Efficient data input @fa[arrow-right] classification
-2. Meaningful feedback @fa[arrow-right] information extraction |
-3. Normalisation of (medical) named entities |
+- Efficient data input @fa[arrow-right] classification
+- Meaningful feedback @fa[arrow-right] information extraction |
+- Normalisation of (medical) named entities |
 
 ---
 
@@ -53,9 +53,9 @@
 
 #### Annotation Task
 
-1. Determining spans associated with label 
-2. Assign correct label |
-3. Correct coding following standards |
+- Determining spans associated with label 
+- Assign correct label |
+- Correct coding following standards |
 
 ---
 
