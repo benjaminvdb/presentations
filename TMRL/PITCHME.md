@@ -21,8 +21,8 @@
 
 #### Objectives
 
-- Efficient
-- Meaningful |
+- Efficient data entering
+- Meaningful feedback |
 - Fully functioning, commercially viable product |
 
 ---
@@ -117,16 +117,22 @@
 * Different problems and needs
     * Text classification
     * Sentiment analysis
-* One task seemed hard to accomplish using learning
+* One task seemed hard to accomplish using learning |
 
 ---
 
 #### Timeline extraction
-* Problem: given a document, return a list of events
-* Therapists notes, they are in a concise and simple format
-* Exploit limited expressiveness of the documents?
-* Simple rule-based approach.
-* First tests are looking promising!
+* Problem: given a document, return a list of events |
+* Therapists notes, they are in a concise and simple format |
+* Exploit limited expressiveness of the documents? |
+* Simple rule-based approach |
+* First tests are looking promising! |
+
+---
+
+#### Chiticariu et al. 2013
+
+![Academia vs. Industry](assets/academia_industry.png)
 
 ---
 
