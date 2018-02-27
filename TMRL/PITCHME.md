@@ -21,8 +21,9 @@
 
 #### Objectives
 
-- Efficient data entering
-- Meaningful feedback |
+- Create a digital assistant that supports:
+    - data intake 
+    - data analysis
 - Fully functioning, commercially viable product |
 
 ---
