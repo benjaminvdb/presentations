@@ -128,11 +128,12 @@
 * Simple rule-based approach |
 * First tests are looking promising! |
 
----
 
----?image=assets/academia_industry.png&size=contain
+---?image=assets/uima_ruta.png&size=contain
 
----
+
+---?image=assets/timeline.png&size=contain
+
 
 #### Rule-based Information Extraction is Dead! Long Live Rule-based Information Extraction Systems!
 * Assumption that statistical methods are the best approach (Chiticariu et al. 2013)
@@ -141,9 +142,34 @@
     * Academia: F1-score, no system or team requirement
     * Industry: interpretable by non-CS employees 
 
----
+
+---?image=assets/academia_industry.png&size=contain
+
+
+#### Hybrid system
+
+- We'll likely encounter more situations where rules can work
+- How to combine statistics and rule-based approaches?
+
+
+#### Walmart's Chimera
+
+- System for continuous classification of product categories
+- Statistics- and rule based classifiers in parallel
+
+
+---?image=assets/walmart_chimera.png&size=contain
+
+
+#### Villena-Román et al. 2011
+
+- Statistics and rule-based approaches in sequence
+- Rules used to fix mistakes in machine learning output
+
+
+---?image=assets/hybrid_system.png&size=contain
 
 #### Conclusions and Future Work
 * Generating training data can be very hard 
 * Rule-based systems might prove useful
-* How to combine rule-based and statistical methods? 
+* How to best combine rule-based and statistical methods? 
