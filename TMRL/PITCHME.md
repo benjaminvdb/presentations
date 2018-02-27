@@ -91,21 +91,21 @@
 
 * About 500 documents were annotated
 * Inter-agreement scores still low
-* We hoped to obtain more data (under-defined task)
+* We hoped to obtain more data
 
 ---
 
 #### Lessons learned
 
 * Hard to estimate difficulty of annotation task
-* Hard to cover all cases in the guidelines
-* Preparing an annotation task takes a lot of time
+* Hard to cover all cases in the guidelines |
+* Preparing an annotation task takes a lot of time |
     * Setting up the tool
     * Training students
     * Monitoring progress
     * Mid-term evaluation
     * Adjustment of the guidelines
-* Start with low-level features!
+* Start with low-level features! |
 
 ---
 
