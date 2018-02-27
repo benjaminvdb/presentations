@@ -149,7 +149,7 @@
 
 ---
 
-![Academia vs. Industry](assets/academia_industry.png?size=contain)
+![Academia vs. Industry](assets/academia_industry.png?size=auto 90%)
 
 ---
 
@@ -158,6 +158,7 @@
 - We'll likely encounter more situations where rules can work
 - How to combine statistics and rule-based approaches?
 
+---
 
 #### Walmart's Chimera
 
