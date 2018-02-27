@@ -149,7 +149,7 @@
 
 ---
 
-![Academia vs. Industry](assets/academia_industry.png?size=auto 90%)
+![Academia vs. Industry](assets/academia_industry.png?size=auto 80%)
 
 ---
 
