@@ -131,6 +131,7 @@
 
 ---?image=assets/uima_ruta.png&size=contain
 
+---
 
 ---?image=assets/timeline.png&size=contain
 
@@ -142,9 +143,11 @@
     * Academia: F1-score, no system or team requirement
     * Industry: interpretable by non-CS employees 
 
+---
 
----?image=assets/academia_industry.png&size=contain
+![Logo](assets/logo.jpg&size=contain)
 
+---
 
 #### Hybrid system
 
