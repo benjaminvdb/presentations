@@ -37,11 +37,20 @@
 
 ---
 
+#### Data
+
+- Anonimized data from existing electronic health records
+  - Lots of forms
+  - Many _free text_ fields
+  - @fa[arrow-right] no normalization
+
+---
+
 #### Starting out 
 
 - Efficient data input @fa[arrow-right] classification
 - Meaningful feedback @fa[arrow-right] information extraction |
-- Normalisation of (medical) named entities |
+- Future: normalization of (medical) named entities |
 
 ---
 
