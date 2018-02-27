@@ -14,8 +14,8 @@
 
 #### Motivation
 
-1. 26% of time spent on administrative work
-2. Current systems do not provide meaningful feedback |
+- 26% of time spent on administrative work
+- Current systems do not provide meaningful feedback |
 
 ---
 
@@ -107,7 +107,7 @@
     * Monitoring progress
     * Mid-term evaluation
     * Adjustment of the guidelines
-* Start with low-level features! |
+* Start with low-level typed! |
 
 ---
 
@@ -121,7 +121,7 @@
 
 ---
 
-##### Timeline extraction
+#### Timeline extraction
 * Problem: given a document, return a list of events
 * Therapists notes, they are in a concise and simple format
 * Exploit limited expressiveness of the documents?
@@ -130,7 +130,7 @@
 
 ---
 
-##### Rule-based Information Extraction is Dead! Long Live Rule-based Information Extraction Systems!
+#### Rule-based Information Extraction is Dead! Long Live Rule-based Information Extraction Systems!
 * Assumption that statistical methods are the best approach (Chiticariu et al. 2013)
 * Industry didn't reflect research efforts
 * Different measures of costs and benefits
