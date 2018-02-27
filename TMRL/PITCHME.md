@@ -110,30 +110,34 @@
 ---
 
 #### Rule-based systems
-* We have implemented several models for solving different needs in the electronic health record.
-* I want to talk about the one that we thought is really hard, since we couldn’t find representative training data for it.
+
+* Implemented several statistical models 
+* Different problems and needs
+    * Text classification
+    * Sentiment analysis
+* One task seemed hard to accomplish using learning
+
+---
 
 ##### Timeline extraction
-* Problem: given a document, return a list of events, each with a representative label describing the event and a start and end date.
-* Since the documents are the therapists notes, they are in a concise and simple format.
-* Perhaps we can exploit the limited expressiveness of the documents?
-* To investigate this, we tried a simple rule-based approach.
+* Problem: given a document, return a list of events
+* Therapists notes, they are in a concise and simple format
+* Exploit limited expressiveness of the documents?
+* Simple rule-based approach.
 * First tests are looking promising!
 
+---
+
 ##### Rule-based Information Extraction is Dead! Long Live Rule-based Information Extraction Systems!
-* Like we did, most recent academic research starts from the assumption that statistical machine learning is the best approach to solving information ex- traction problems (Chiticariu et al. 2013)
-* The industry in 2013 didn’t reflect the research efforts of the NLP community over the years 2003-2012: rule-based systems we twice as abundant and in large companies even more so!
+* Assumption that statistical methods are the best approach (Chiticariu et al. 2013)
+* They found that the industry didn't reflect research efforts
 * Different ways of measuring the costs and benefits of information extraction:
-    * In academia there is usually no system or team requirement, usually just evaluation measurements such as precision, recall, F1-score, etc.
-    * In industry there is a limited resource of people who can work with machine learning models. It’s nice if non-CS people can be trained to write rules. Interpretability supporting the easiness of maintenance and incorporation of domain knowledge.
+    * Academia: F1-score, no system or team requirement
+    * Industry: interpretable by non-CS employees 
+
+---
 
 #### Conclusions and Future Work
-* Generating training data in a field as complex as physiotherapy is very hard.
-* Observing the early results and usage in the industry, rule-based systems might prove more useful than I expected.
-* We will continue a rule-based approach for specific parts of the electronic health record.
-* Looking for ways to combine rule and ML-based approaches. Any suggestions?
-
-#### ML-based systems
-* While the students were annotating documents, we tried to tackle some more concrete problems using ML-based methods:
-    * Assign sentences to the proper form field in the electronic health record.
-    * Sentiment analysis of subjective patient reporting, i.e. assign a score between [-1, 1] to a document like “Patient feels better than last week. Had some knee pain for two days after manipulation, but this slowly faded and is now gone.”
+* Generating training data can be very hard 
+* Rule-based systems might prove useful
+* How to combine rule-based and statistical methods? 
