@@ -145,7 +145,7 @@
 
 ---
 
-![Logo](assets/logo.jpg&size=contain)
+![Logo](assets/academia_industry.png&size=contain)
 
 ---
 
