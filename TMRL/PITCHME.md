@@ -1,6 +1,6 @@
 ### Developing a smarter Electronic Health Record
-
-<span style="color:gray">Benjamin van der Burgh (LIACS)</span>
+<br>
+<span style="color:gray;font-size:12;">Benjamin van der Burgh (LIACS)</span>
 
 ---
 
