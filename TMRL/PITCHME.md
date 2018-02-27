@@ -130,9 +130,7 @@
 
 ---
 
-#### Chiticariu et al. 2013
-
-![Academia vs. Industry](assets/academia_industry.png)
+---?image=assets/academia_industry.png
 
 ---
 
