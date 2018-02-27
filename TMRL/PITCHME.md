@@ -49,8 +49,8 @@
 #### Starting out 
 
 - Efficient data input @fa[arrow-right] classification
-- Meaningful feedback @fa[arrow-right] information extraction |
-- Future: normalization of (medical) named entities |
+- Meaningful feedback @fa[arrow-right] information extraction 
+- Future: normalization of (medical) named entities
 
 ---
 
