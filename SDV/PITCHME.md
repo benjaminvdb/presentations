@@ -2,6 +2,6 @@
 
 * Een|
 * Twee|
-* Drie
+* Drie|
 
 ---
